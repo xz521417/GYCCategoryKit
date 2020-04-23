@@ -1,0 +1,16 @@
+PODS:
+  - GYCCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - GYCCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  GYCCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GYCCategoryKit: 623b7804555cb7a864e6dcaf1b12ab84069db90f
+
+PODFILE CHECKSUM: 6d385b29ecc139308b4d06503d7862642ef5f994
+
+COCOAPODS: 1.9.1

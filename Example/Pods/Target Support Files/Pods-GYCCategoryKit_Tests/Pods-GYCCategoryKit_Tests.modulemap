@@ -1,0 +1,6 @@
+framework module Pods_GYCCategoryKit_Tests {
+  umbrella header "Pods-GYCCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

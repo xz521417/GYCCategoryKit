@@ -1,0 +1,6 @@
+framework module GYCCategoryKit {
+  umbrella header "GYCCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
